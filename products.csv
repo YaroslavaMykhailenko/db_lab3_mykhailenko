@@ -1,0 +1,107 @@
+Product_Name,Product_Price,Product_Id
+Mint Sauce,0.5,KLB01
+Lime Pickle,0.5,KLB02
+Mango Chutney,0.5,KLB03
+Red Sauce,0.5,KLB04
+Onion Chutney,0.5,KLB05
+Plain Papadum,0.8,KLB06
+Spicy Papadum,0.8,KLB07
+Chapati,1.95,KLB08
+Puree,1.95,KLB09
+Tandoori Roti,2.6,KLB10
+Plain Naan,2.6,DFR0
+Raitha,2.95,DFR1
+Keema Naan,2.95,DFR2
+Peshwari Naan,2.95,DFR3
+Pilau Rice,2.95,DFR4
+Green Salad,2.95,DFR5
+Bottle Diet Coke,2.95,DFR6
+Kulcha Naan,2.95,DFR7
+Lemonade 1.5 ltr,2.95,DFR8
+Diet Coke 1.5 ltr,2.95,DFR9
+Coke 1.5 ltr,2.95,DFR10
+Dhansak Sauce,3.95,DFR11
+Onion Bhajee,3.95,DFR12
+Lemon Rice,3.95,DFR13
+French Fries,3.95,DFR14
+Garlic Rice,3.95,DFR15
+Onion Rice,3.95,DFR16
+Perrier Water (750ml),3.95,DFR17
+Special Fried Rice,3.95,ABG4
+Meat Samosa,3.95,ABG5
+Mushroom Rice,3.95,ABG6
+Korma Sauce,3.95,ABG7
+Vegetable Rice,3.95,ABG8
+Egg Rice,3.95,ABG9
+Chicken Tikka,3.95,ABG10
+Aloo Chaat,4.95,ABG11
+Tandoori Chicken (1/4),4.95,ABG12
+Chicken Chaat,4.95,ABG13
+Prawn Puree,4.95,ABG14
+Lamb Tikka,4.95,ABG15
+Vegetable Roll,4.95,ABG16
+Sheek Kebab,4.95,ABG17
+Sheek Kehab,4.95,ABG18
+Vegetable Samosa,4.95,ABG19
+King Prawn Puree,5.95,ABG20
+Bhindi Bhajee,5.95,ABG21
+Tarka Dall,5.95,ABG22
+Saag Paneer,5.95,ABG23
+Baingan Hari Mirch,5.95,ABG24
+Dall Samba,5.95,ABG25
+COBRA (660ML),5.95,ABG26
+Chicken Chaat Main,7.9,ABG27
+Madras - Chicken,7.95,ABG28
+Madras - Lamb,7.95,ABG29
+Curry - Chicken,7.95,ABG30
+Vindaloo - Chicken,7.95,ABG31
+Madras - Chicken Tikka,7.95,ABG32
+Curry - Lamb,7.95,ABG33
+Curry - Chicken Tikka,7.95,ABG34
+Vindaloo - Chicken Tikka,7.95,ABG35
+Vindaloo - Lamb,7.95,ABG36
+Madras,7.95,ABG37
+Curry,7.95,ABG38
+Vindaloo,7.95,DKT6
+Korma - Chicken,8.95,DKT7
+Chicken Tikka Masala,8.95,DKT8
+Methi,8.95,DKT9
+Rogon,8.95,DKT10
+Mushroom,8.95,DKT11
+Tandoori Chicken,8.95,DKT12
+Chicken Shashlick,9.95,DKT13
+Chicken Roshni,9.95,DKT14
+Chicken Balti,9.95,DKT15
+Lamb Balti,9.95,DKT16
+Lamb Roshni,9.95,DKT17
+Saag - Prawn,9.95,DKT18
+Methi - Prawn,9.95,DKT19
+Rogon - Prawn,9.95,DKT20
+Mushroom - Prawn,9.95,DKT21
+Lamb Tikka Biryani,10.95,DKT22
+Chicken Tikka Balti,10.95,DKT23
+Lamb Tikka Balti,10.95,DKT24
+Prawn Biryani,10.95,DKT25
+Paneer Tikka Balti,10.95,DKT26
+Chicken Tikka Biryani,10.95,DKT27
+Persian Lamb Biryani,10.95,DKT28
+Prawn Balti,10.95,DKT29
+Persian Chicken Biryani,10.95,DKT30
+Lamb Persian,10.95,DKT31
+Tandoori Mixed Grill,11.95,DKT32
+Curry - King Prawn,11.95,DKT33
+Madras - King Prawn,11.95,DKT34
+Tandoori Fish (Main),11.95,DKT35
+Vindaloo - King Prawn,11.95,DKT36
+Tandoori King Prawn Garlic,12.95,DKT37
+Chicken Shashlick Curry,12.95,DKT38
+King Prawn Hari Mirch,12.95,DKT39
+Hazary Lamb Chilli Garlic,12.95,DKT40
+Lamb Shashlick Curry,12.95,DKT41
+King Prawn Shaslick,12.95,SWE4
+Dhansak - King Prawn,12.95,SWE5
+King Prawn Karahi,12.95,SWE6
+Methi - King Prawn,12.95,SWE7
+Kurma,12.95,SWE8
+House Red wine 75cl,17.95,SWE9
+House white wine 75cl,17.95,SWE10
